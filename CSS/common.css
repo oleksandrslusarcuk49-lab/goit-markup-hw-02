@@ -1,0 +1,12 @@
+.body {
+    font-family: Roboto, sans-serif;
+    width: regular;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 2%;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+ul, ol {
+    list-style: none;
+}

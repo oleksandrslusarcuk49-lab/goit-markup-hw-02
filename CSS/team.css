@@ -1,0 +1,30 @@
+.team {
+    background-color: #f4f4fd;
+}
+.h2-team {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.h3-team {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.team-item p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+.team-item {
+    background-color: #fff;
+}

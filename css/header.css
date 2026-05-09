@@ -1,7 +1,7 @@
 .header{
     background-color: #fff;
-    border-bottom: 1px solid;
     list-style: none;
+    letter-spacing: 0.02em;
 }
 .logo-header {
     color: #2e2f42;

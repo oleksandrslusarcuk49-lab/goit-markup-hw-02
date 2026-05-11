@@ -8,6 +8,7 @@
     font-family: "Raleway",sans-serif;
     font-size: 18px;
     font-weight: 700;
+    line-height: 1.33333;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
@@ -27,13 +28,13 @@
 .nav-item a:focus {
     color: #404bbf;
 }
-.address-item a {
+.heder-address-text {
     font-weight: 400;
     font-style: normal;
     text-decoration: none;
     color: #434455;
 }
-.address-item a:hover,
-.address-item a:focus{
+.heder-address-text:hover,
+.heder-address-text:focus{
     color: #404bbf;
 }
